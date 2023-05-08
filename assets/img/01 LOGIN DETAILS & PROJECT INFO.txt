@@ -1,0 +1,25 @@
+**Log on to codeastro.com for more projects!**
+
+**Database Name: resultgrading**
+
+**Developed by Sodiq Ahmed**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details** 
+
+Username: AD123
+Password: codeastro.com
+
+
+
+**DomPDF has been removed from the directory due to excessive file size**
+
+**Download "dompdf" and place it under the directory with the same folder name as mentioned**
+
+
+**Log on to codeastro.com for more projects!**
+
+
+
